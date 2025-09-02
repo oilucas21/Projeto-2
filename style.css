@@ -2,9 +2,9 @@
 :root {
     --primary-color: #337ab7; /* Azul padrão */
     --secondary-color: #f7f7f7; /* Cinza claro para seções */
-    --text-color: #333;
+    --text-color: #f80909;
     --white-color: #fff;
-    --dark-bg: #222;
+    --dark-bg: #644e4e;
 }
 
 * {
